@@ -222,3 +222,11 @@ Achieve the same outcome with fewer transactions.
 ## Conclusion
 
 This design prioritizes simplicity, correctness, and clarity. The system separates API handling, business logic, and data storage while supporting flexible expense splits and simplified balance tracking. By minimizing transactions and centralizing logic, the backend is easy to maintain, scalable, and ready for real-world use.
+
+
+
+## for detailed docs
+
+[Docs](https://discreet-pony-99e.notion.site/Expense-Sharing-Application-Backend-Design-2d2b8566604e80c59707d98f7e71e473?source=copy_link)
+
+
